@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/44650.png</file>
+        <file>images/copy.png</file>
+        <file>images/File_Add-512.webp</file>
+        <file>images/images (1).png</file>
+        <file>images/images (4).jpeg</file>
+        <file>images/images (6).jpeg</file>
+        <file>images/images.png</file>
+        <file>images/open.png</file>
+        <file>images/paste.webp</file>
+        <file>images/print.png</file>
+        <file>images/resource.qrc</file>
+        <file>images/save--v2.png</file>
+        <file>images/underline-54-840263.png</file>
+        <file>images/undo-6.png</file>
+    </qresource>
+</RCC>
